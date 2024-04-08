@@ -7,7 +7,7 @@ calculate = () => {
     amount.value = "";
     guests.value = "";
     quality.value = "";
-    if(top === "NaN"){
+    if(tip === "NaN"){
         tipAmount.textContent = "Tip $0 each";
         showTipAmount();
     }   else {
