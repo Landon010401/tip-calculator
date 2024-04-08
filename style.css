@@ -1,7 +1,7 @@
 body{
     height: 100vh;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background: linear-gradient(to right, #f95ce2, #edca11);
+    background: linear-gradient(to right, #6a00ff, #fd00e0);
 }
 
 .container{
@@ -14,8 +14,8 @@ body{
 }
 
 #calculator{
-    border: 1px solid lightgray;
-    background: whitesmoke;
+    border: 1px solid rgb(195, 75, 255);
+    background: rgb(159, 34, 254);
     border-radius: 5px;
     width: 400px;
     margin: auto;
@@ -117,4 +117,5 @@ body{
         width: 20%;
     }
 }
+
 
